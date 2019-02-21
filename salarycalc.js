@@ -25,3 +25,7 @@ function salaryReport(){
 		return salary;
 }
 console.log(salaryReport());
+
+// for (var i = 0; i < departments.length; i++) {
+// 	var deptsalary =
+// }
